@@ -1,35 +1,61 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
+  company: Melexis Technologies SA
+  link: www.melexis.com
   job_title: Senior Embedded SW engineer
   dates: Apr 2018 – Present
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+   Inspired engineering
   description: | # this will include new lines to allow paragraphs
-    Architecturing and implementing embedded SW for a high-grossing product line. Tasks include:
+    Promotion to senior position.
+
+    Work package roughly the same as the "Embedded SW engineer" position (see below) but with a larger focus on
+    SW architecture, Safety Analyses (FMEA, FTA, DFA) and Functional Safety aspects overall.
+
+- layout: left
+  company: Melexis Technologies SA
+  link: www.melexis.com
+  job_title: Embedded SW engineer
+  dates: Jan 2016 – Apr 2018
+  quote: >
+   Inspired engineering
+  description: | # this will include new lines to allow paragraphs
+    Designing and implementing embedded SW for a high-grossing product line. Tasks include:
 
     - Extensive documentation of the architecture and design
     - Requirement management: Writing SW requirements and maintaining traceability with system-level requirements and test-cases
-    - Safety analysis in accordance to automotive standards
-    - Testing: extensive unit testing and collaboration on integration/acceptance testing in simulated environment
+    - Testing: extensive unit testing and collaboration on integration/acceptance testing in simulated (Cadence) environment
     - Implementation in C/assembler on a custom CPU architecture with limited resources
 
      All this in a version-controlled environment (git, cvs) with a big focus on automation via continuous integration systems */
 
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Embedded SW engineer
-  dates: Apr 2018 – Present
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  company: Altran ISY Benelux (consulting at Melexis Technologies NV)
+  link: www.melexis.com
+  job_title: Junior Embedded Software Engineer
+  dates: Jan 2015 – Jan 2016
+  # quote: >
+  #  Inspired engineering
   description: | # this will include new lines to allow paragraphs
-    Architecturing and implementing embedded SW for a high-grossing product line. Tasks include:
+    - Design of a PSI5 output driver into existing code for a magnetic position sensor.
+    - Setting up and supporting build infrastucture, Continuous integration (Jenkins) and test frameworks
 
-    - Extensive documentation of the architecture and design
-    - Requirement management: Writing SW requirements and maintaining traceability with system-level requirements and test-cases
-    - Safety analysis in accordance to automotive standards
-    - Testing: extensive unit testing and collaboration on integration/acceptance testing in simulated environment
-    - Implementation in C/assembler on a custom CPU architecture with limited resources
-
-     All this in a version-controlled environment (git, cvs) with a big focus on automation via continuous integration systems */
+- layout: left
+  company: Tass Technology Solutions (consulting at Punch Powertrain NV)
+  # link: www.melexis.com
+  job_title: Junior Embedded Software Engineer
+  dates: Sep 2013 – Jan 2015
+  # quote: >
+  #  Inspired engineering
+  description: | # this will include new lines to allow paragraphs
+    - Intensive training on embedded software topics before getting sent to Punch Powertrain on assignment
+        - Agile/Scrum training
+        - Python (Advanced) training
+        - C/C++ training
+        - Embedded SW development techniques training
+    - 1 Year of consulting at Punch Powertrain in the embedded SW department handling automatic gear boxes.
+      Wide variety of tasks, including:
+        - Porting code compiled using Wind River Diab compiler to be compiled under GCC (for prototyping/CI purposes)
+        - Maintaining/improving build systems
+        - Developing Flash driver new products
+        - Patching legacy code
+        - Support for integration effort of embedded SW functions in Simulink environment.
