@@ -47,18 +47,18 @@
   # quote: >
   #  Inspired engineering
   description: | # this will include new lines to allow paragraphs
-    - Intensive training on embedded software topics before getting sent to Punch Powertrain on assignment
+    Intensive training on embedded software topics before getting sent to Punch Powertrain on assignment
 
-        - Agile/Scrum training
-        - Python (Advanced) training
-        - C/C++ training
-        - Embedded SW development techniques training
+    - Agile/Scrum training
+    - Python (Advanced) training
+    - C/C++ training
+    - Embedded SW development techniques training
 
-    - 1 Year of consulting at Punch Powertrain in the embedded SW department handling automatic gear boxes.
-      Wide variety of tasks, including:
+    1 Year of consulting at Punch Powertrain in the embedded SW department handling automatic gear boxes.
+    Wide variety of tasks, including:
 
-        - Porting code compiled using Wind River Diab compiler to be compiled under GCC (for prototyping/CI purposes)
-        - Maintaining/improving build systems
-        - Developing Flash driver new products
-        - Patching legacy code
-        - Support for integration effort of embedded SW functions in Simulink environment.
+    - Porting code compiled using Wind River Diab compiler to be compiled under GCC (for prototyping/CI purposes)
+    - Maintaining/improving build systems
+    - Developing Flash driver new products
+    - Patching legacy code
+    - Support for integration effort of embedded SW functions in Simulink environment.
